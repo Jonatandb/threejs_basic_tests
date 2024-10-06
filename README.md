@@ -9,13 +9,13 @@
 ---
 
 ### Using ThreeJS from CDN:
-[![screenshot](basic/screenshot.png)](/basic/)
-- [Sample code](/basic/)
+[![screenshot](basic/screenshot.png)](/basic/README.md)
+- [Sample code](/basic/README.md)
 
 ### Vanilla Javascript project with Vite:
-[![screenshot](vite/screenshot.png)](/vite/)
-- [Sample code](/vite/)
+[![screenshot](vite/screenshot.png)](/vite/README.md)
+- [Sample code](/vite/README.md)
 
 ### Using @react-three/fiber and @react-three/drei:
-[![screenshot](vite-react/screenshot.png)](/vite-react/)
-- [Sample code](/vite-react/)
+[![screenshot](vite-react/screenshot.png)](/vite-react/README.md)
+- [Sample code](/vite-react/README.md)
